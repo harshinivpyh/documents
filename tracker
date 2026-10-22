@@ -1,0 +1,17 @@
+# Event Tracker
+
+A personal tracker for club events and activities throughout the academic year.
+
+| Event | Department | Date | Status |
+|---|---|---|---|
+| Cyber Awareness Workshop | Education | 12 Mar 2026 | Completed |
+| Campus Tech Night | Events | 24 Apr 2026 | Completed |
+| Committee Bonding Day | Internal Affairs | 18 Jun 2026 | Completed |
+| Project Northstar | Operations | 14 Aug 2026 | Archived |
+| Recruitment Drive | Human Resources | 05 Sep 2026 | In Progress |
+
+## Notes
+- Update event documentation after each activity.
+- Move completed event files into the archive.
+- Check missing attachments for Project Northstar.
+- Review old event folders before the next committee transition.
